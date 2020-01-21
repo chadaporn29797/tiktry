@@ -51,7 +51,7 @@
     "id": 3,
     "num": "003",
     "name": "ปีขาล (ปีเสือ)",
-    "img": "https://stickershop.line-scdn.net/sticonshop/v1/sticon/5e003320031a67c29d10eb82/iPhone/003.png",
+    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/0d3ffb98c8c18fa8204931dc60842c58d471b3be/tiger.png",
     "type": [
       "ฉลู", "มะโรง" ,"มะเส็ง" ,"วอก", "ระกา", "กุน"
     ],
@@ -75,7 +75,7 @@
     "id": 4,
     "num": "004",
     "name": "ปีเถาะ (ปีกระต่าย)",
-    "img": "https://stickershop.line-scdn.net/sticonshop/v1/sticon/5e003320031a67c29d10eb82/iPhone/004.png",
+    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/0d3ffb98c8c18fa8204931dc60842c58d471b3be/easter-bunny.png",
     "type": [
       "ชวด","ฉลู" ,"มะโรง", "มะเส็ง", "มะเมีย" ,"วอก" ,"ระกา"
     ],
@@ -99,7 +99,7 @@
     "id": 5,
     "num": "005",
     "name": "ปีมะโรง (ปีงูใหญ่)",
-    "img": "https://stickershop.line-scdn.net/sticonshop/v1/sticon/5e003320031a67c29d10eb82/iPhone/005.png",
+    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/0d3ffb98c8c18fa8204931dc60842c58d471b3be/dragon.png",
     "type": [
       "เถาะ", "มะโรง", "มะเมีย", "มะแม" , "ระกา"
     ],
@@ -123,7 +123,7 @@
     "id": 6,
     "num": "006",
     "name": "ปีมะเส็ง (ปีงูเล็ก)",
-    "img": "https://stickershop.line-scdn.net/sticonshop/v1/sticon/5e003320031a67c29d10eb82/iPhone/006.png",
+    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/0d3ffb98c8c18fa8204931dc60842c58d471b3be/snake.png",
     "type": [
       "มะแม", "วอก" , "ระกา", "จอ" ,"กุน"
     ],
@@ -147,7 +147,7 @@
     "id": 7,
     "num": "007",
     "name": "ปีมะเมีย (ปีม้า)",
-    "img": "https://stickershop.line-scdn.net/sticonshop/v1/sticon/5e003320031a67c29d10eb82/iPhone/007.png",
+    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/0d3ffb98c8c18fa8204931dc60842c58d471b3be/horse.png",
     "type": [
       "ฉลู" ,"ขาล" , "มะเส็ง" , "วอก"  
     ],
@@ -171,7 +171,7 @@
     "id": 8,
     "num": "008",
     "name": "ปีมะแม (ปีแพะ)",
-    "img": "https://stickershop.line-scdn.net/sticonshop/v1/sticon/5e003320031a67c29d10eb82/iPhone/008.png",
+    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/0d3ffb98c8c18fa8204931dc60842c58d471b3be/goat.png",
     "type": [
        "มะโรง", "มะเส็ง" ,"วอก",  "ระกา" ,"กุน"
     ],
@@ -195,7 +195,7 @@
     "id": 9,
     "num": "009",
     "name": "ปีวอก (ปีลิง)",
-    "img": "https://stickershop.line-scdn.net/sticonshop/v1/sticon/5e003320031a67c29d10eb82/iPhone/009.png",
+    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/0d3ffb98c8c18fa8204931dc60842c58d471b3be/monkey.png",
     "type": [
       "เถาะ" ,"มะเส็ง" ,"มะแม", "ระกา" ,"กุน"
     ],
@@ -219,7 +219,7 @@
     "id": 10,
     "num": "010",
     "name": "ปีระกา (ปีไก่)",
-    "img": "https://stickershop.line-scdn.net/sticonshop/v1/sticon/5e003320031a67c29d10eb82/iPhone/010.png",
+    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/0d3ffb98c8c18fa8204931dc60842c58d471b3be/chicken.png",
     "type": [
       "มะโรง", "มะเส็ง" ,"มะเมีย" , "วอก", "จอ"
     ],
@@ -243,7 +243,7 @@
     "id": 11,
     "num": "011",
     "name": "ปีจอ (ปีหมา)",
-    "img": "https://stickershop.line-scdn.net/sticonshop/v1/sticon/5e003320031a67c29d10eb82/iPhone/011.png",
+    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/0d3ffb98c8c18fa8204931dc60842c58d471b3be/corgi.png",
     "type": [
        "มะเส็ง", "มะเมีย", "ระกา", "จอ", "กุน"
     ],
@@ -267,7 +267,7 @@
     "id": 12,
     "num": "012",
     "name": "ปีกุน (ปีหมู)",
-    "img": "https://image.flaticon.com/icons/svg/1702/1702847.svg",
+    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/0d3ffb98c8c18fa8204931dc60842c58d471b3be/pig.png",
     "type": [
       "ชวด", "ขาล",  "มะเมีย" , "วอก", "ระกา"
     ],
