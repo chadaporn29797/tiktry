@@ -3,7 +3,7 @@
     "id": 1,
     "num": "001",
     "name": "ราศีเมษ",
-    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/master/d4.png",
+    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/3cd17c97080e16744982b23cc363d6036959f145/capricorn.png",
     "type": [
       "สีแดงเลือด"
     ],
@@ -30,7 +30,7 @@
     "id": 2,
     "num": "002",
     "name": "ราศีพฤษภ",
-    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/master/d5.png",
+    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/3cd17c97080e16744982b23cc363d6036959f145/taurus.png",
     "type": [
       "สีชมพู","สีฟ้า"
     ],
@@ -57,7 +57,7 @@
     "id": 3,
     "num": "003",
     "name": "ราศีเมถุน",
-    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/master/d6.png",
+    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/3cd17c97080e16744982b23cc363d6036959f145/gemini.png",
     "type": [
      "สีเหลืองอมส้ม","สีท้องฟ้า"
     ],
@@ -84,7 +84,7 @@
     "id": 4,
     "num": "004",
     "name": "ราศีกรกฎ",
-    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/master/d7.png",
+    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/3cd17c97080e16744982b23cc363d6036959f145/zodiac.png",
     "type": [
       "สีเขียว","สีเทาเงิน","สีขาว"
     ],
@@ -111,7 +111,7 @@
     "id": 5,
     "num": "005",
     "name": "ราศีสิงห์",
-    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/master/d8.png",
+    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/3cd17c97080e16744982b23cc363d6036959f145/leo.png",
     "type": [
       "สีทอง","สีส้ม","สีเหลือง"
     ],
@@ -138,7 +138,7 @@
     "id": 6,
     "num": "006",
     "name": "ราศีกันย์",
-    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/master/d9.png",
+    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/3cd17c97080e16744982b23cc363d6036959f145/virgo.png",
     "type": [
       "สีเหลือง","สีของท้องฟ้า"
     ],
@@ -165,7 +165,7 @@
     "id": 7,
     "num": "007",
     "name": "ราศีตุลย์",
-    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/master/d10.png",
+    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/3cd17c97080e16744982b23cc363d6036959f145/libra.png",
     "type": [
       "สีชมพูโทนพาสเทล","สีฟ้า"  
     ],
@@ -192,7 +192,7 @@
     "id": 8,
     "num": "008",
     "name": "ราศีพิจิก",
-    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/master/d11.png",
+    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/3cd17c97080e16744982b23cc363d6036959f145/scorpio.png",
     "type": [
       "สีดำ","สีน้ำตาลแดง","สีเทาถ่าน"
     ],
@@ -221,7 +221,7 @@
     "id": 9,
     "num": "009",
     "name": "ราศีธนู",
-    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/master/d12.png",
+    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/3cd17c97080e16744982b23cc363d6036959f145/sagittarius.png",
     "type": [
      "สีบรอนซ์","สีฟ้าเดนิม"," สีคราม","สีแดง"
     ],
@@ -248,7 +248,7 @@
     "id": 10,
     "num": "010",
     "name": "ราศีมังกร",
-    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/master/d1.png",
+    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/3cd17c97080e16744982b23cc363d6036959f145/aries.png",
     "type": [
       "สีดำ","สีเอิร์ธโทน",
       "สีส้ม"
@@ -276,7 +276,7 @@
     "id": 11,
     "num": "011",
     "name": "ราศีกุมภ์",
-    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/master/d2.png",
+    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/3cd17c97080e16744982b23cc363d6036959f145/aquarius.png",
     "type": [
        "สีฟ้าน้ำเงิน"
     ],
@@ -306,7 +306,7 @@
     "id": 12,
     "num": "012",
     "name": "ราศีมีน",
-    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/master/d3.png",
+    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/3cd17c97080e16744982b23cc363d6036959f145/zodiac%20(1).png",
     "type": [
       "สีเงิน",
       "สีเขียวน้ำทะเล"
